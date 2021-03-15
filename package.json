@@ -5,7 +5,8 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "node index.js"
   },
   "keywords": [
     "eID",
@@ -19,15 +20,15 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/modeclerck/belgium-eid.git"
-   },
+  },
   "bugs": {
     "url": "https://github.com/modeclerck/belgium-eid/issues"
   },
   "dependencies": {
-    "@pokusew/pcsclite": "^0.5.1",
-    "pkcs11js": "^1.0.17"
+    "@pokusew/pcsclite": "0.6.0",
+    "pkcs11js": "1.2.2"
   },
   "devDependencies": {
-    "@types/node": "^10.12.18"
+    "@types/node": "14.14.34"
   }
 }
