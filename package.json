@@ -16,13 +16,13 @@
   ],
   "author": "Morgan De Clerck",
   "license": "MIT",
-  "homepage": "https://github.com/modeclerck/belgium-eid#readme",
+  "homepage": "https://github.com/potaesm/belgium-eid#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/modeclerck/belgium-eid.git"
+    "url": "git+https://github.com/potaesm/belgium-eid.git"
   },
   "bugs": {
-    "url": "https://github.com/modeclerck/belgium-eid/issues"
+    "url": "https://github.com/potaesm/belgium-eid/issues"
   },
   "dependencies": {
     "@pokusew/pcsclite": "0.6.0",
