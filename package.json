@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "@pokusew/pcsclite": "0.6.0",
+    "path": "^0.12.7",
     "pkcs11js": "1.2.2"
   },
   "devDependencies": {

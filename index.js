@@ -1,4 +1,4 @@
-let Reader = require('./dist/reader').default;
+let Reader = require('./js_src/reader');
 let reader = new Reader();
 reader.on('card-inserted', (card) => {
     console.log('CARD INSERTED', card);
